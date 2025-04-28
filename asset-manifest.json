@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bhalsodnikunj/todo-react/static/css/main.a0292a50.css",
+    "main.js": "/Bhalsodnikunj/todo-react/static/js/main.20be9100.js",
+    "static/media/paperclips-to-insert-imaginary-text-or-for-advertising-purposes-fr.jpg": "/Bhalsodnikunj/todo-react/static/media/paperclips-to-insert-imaginary-text-or-for-advertising-purposes-fr.fe0e7a3fd379757f9555.jpg",
+    "index.html": "/Bhalsodnikunj/todo-react/index.html",
+    "main.a0292a50.css.map": "/Bhalsodnikunj/todo-react/static/css/main.a0292a50.css.map",
+    "main.20be9100.js.map": "/Bhalsodnikunj/todo-react/static/js/main.20be9100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0292a50.css",
+    "static/js/main.20be9100.js"
+  ]
+}
